@@ -37,7 +37,8 @@
   python evaluate_cVAN.py -c config/config -g -1 // -1 means use cpu only,0 means use gpu.
   ```
 
-  ### Citation
+
+### Citation
 If you found this code/work to be useful in your own research, please considering citing the following:
 
 ```bibtex
